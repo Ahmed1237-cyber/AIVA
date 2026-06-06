@@ -494,10 +494,6 @@ If no provider is configured:
 - MITRE ATT&CK Mapping
 - Threat Hunting Integration
 - SIEM Integration
-- Continuous Monitoring
-- Multi-Scanner Support
-- Database-backed RBAC
-- CVE Trend Forecasting
-
+  
 ---
 
